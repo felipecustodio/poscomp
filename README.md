@@ -5,6 +5,10 @@
 
 [Conheça nossa plataforma de simulados para POSCOMP](WEBQUESTOES.md)
 
+♟️ **Gosta de xadrez?** Confira o [Chesstrophy](https://chesstrophy.com), uma plataforma para treinar aberturas de xadrez e desenvolver a memorização do tabuleiro.
+
+*(obs: o site em si é em inglês)*
+
 ## Provas disponíveis
 
 |   Ano    |                            Arquivos                                            |
